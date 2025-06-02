@@ -44,23 +44,23 @@ let division = a / b;
 // Step 4: Use comparison operators to compare the variables.
 // Example: let isGreaterThan;
 // Check if 'a' is greater than 'b'.
-isGreaterThan = a > b;
+let isGreaterThan = a > b;
 // Example: let isGreaterOrEqual;
 // Check if 'a' is greater than or equal to 'b'.
-isGreaterOrEqual = a >= b;
+let isGreaterOrEqual = a >= b;
 // Example: let isLessThan;
 // Check if 'a' is less than 'b'.
-isLessThan = a < b;
+let isLessThan = a < b;
 // Example: let isLessOrEqual;
 // Check if 'a' is less than or equal to 'b'.
-isLessOrEqual = a <= b;
+let isLessOrEqual = a <= b;
 // Step 5: Apply binary logic with short-circuit evaluation.
 // Example: let andResult;
 // Use '&&' to check if both 'a' and 'b' are greater than 5.
-andResult = (a > 5 && b > 5);
+let andResult = (a > 5 && b > 5);
 // Example: let orResult;
 // Use '||' to check if either 'a' or 'b' is greater than 5.
-orResult = (a > 5 && b > 5);
+let orResult = (a > 5 && b > 5);
 //
 // Do not edit below this line doing so will break the project, this code will display the values on the page
 //
